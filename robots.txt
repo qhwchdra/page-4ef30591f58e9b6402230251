@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c9f1545618.quanwugou.cn/sitemap.xml
